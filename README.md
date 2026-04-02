@@ -32,7 +32,7 @@ A ideia deste repositório é documentar minha evolução técnica ao longo da f
 |--------|-----------|-----------|
 | Projeto 01 — Sistema de Livros | Cadastro de livros e cálculo de preço por página | Classes, construtores, encapsulamento |
 | Projeto 02 —  Planilha de Alunos | Controle de informações sobre alunos e cálculo de média final | Classes, construtores, encapsulamento e manipulação |
-| Projeto 03 —  | Em desenvolvimento | — |
+| Projeto 03 —  loja de Eletronicos| Classes parar uma futura criação de loja de eletronicos | Classes e construtores, |
 
 *(A lista será atualizada conforme novos projetos forem concluídos.)*
 
